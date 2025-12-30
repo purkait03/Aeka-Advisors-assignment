@@ -1,0 +1,6 @@
+[submodule "Smart-ToDo-API-backend"]
+	path = Smart-ToDo-API-backend
+	url = https://github.com/purkait03/Smart-ToDo-API-backend.git
+[submodule "Weekend-Getaway-Ranker"]
+	path = Weekend-Getaway-Ranker
+	url = https://github.com/purkait03/Weekend-Getaway-Ranker.git
